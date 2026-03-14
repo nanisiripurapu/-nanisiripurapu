@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm  Siripurapu Nani </h1>
+<h1 align="center">Hi 👋, I'm Siripurapu Nani</h1>
 
-<h3 align="center">💻 Data Science | 📊 Data Analytics | 🤖 Machine Learning | 🧠 Gen AI</h3>
+<h3 align="center">
+💻 Data Science | 📊 Data Analytics | 🤖 Machine Learning | 🧠 Gen AI
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Python+Developer;Power+BI+Developer;Open+to+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Python+Developer;Power+BI+Developer;Open+to+Work"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-
-- 🎓 B.Tech in Computer Science and Engineering(Arificial Intelligence And Data Science)  
-- 📊 Passionate about Data Science and Machine Learning  
-- 🤖 Building Machine Learning and Analytics Projects  
-- 📈 Skilled in Python, SQL, Power BI, and Data science  
-- 🌱 Currently learning Advanced Machine Learning & Generative AI, Agentic 
-- 💼 Open for DataScience ,Data Analyst and ML Engineer roles  
-- 📫 Email:nanisiripurapu8@gmail.com  
+- 🎓 **B.Tech in Computer Science and Engineering (Artificial Intelligence & Data Science)**
+- 📊 Passionate about **Data Science and Machine Learning**
+- 🤖 Building **Machine Learning & Data Analytics Projects**
+- 📈 Skilled in **Python, SQL, Power BI, and Data Analytics**
+- 🌱 Currently learning **Advanced Machine Learning, Generative AI & Agentic AI**
+- 💼 Open for **Data Scientist, Data Analyst, and ML Engineer roles**
+- 📫 Email: **nanisiripurapu8@gmail.com**
 
 ---
 
-## 🚀 Languages and Tools
+# 🚀 Languages and Tools
 
 <p align="left">
 
@@ -35,13 +36,9 @@
 
 </p>
 
-
-
 ---
 
-
-
-## 📫 Get in touch With Me
+# 📫 Connect With Me
 
 <p align="left">
 
@@ -53,14 +50,11 @@
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
-
- <a href="https://github.com/nanisiripurapu">
- <img src="https://img.icons8.com/material-outlined/48/github.png"/>
- </a>
+<a href="https://github.com/nanisiripurapu">
+<img src="https://img.icons8.com/material-outlined/48/github.png"/>
+</a>
 
 </p>
-
-
 
 
 
