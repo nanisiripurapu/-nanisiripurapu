@@ -50,7 +50,7 @@
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
-<a href="https://github.com/nanisiripurapu">
+<a href="https://github.com/nanisiripurapu" target="_blank">
 <img src="https://img.icons8.com/material-outlined/48/github.png"/>
 </a>
 
